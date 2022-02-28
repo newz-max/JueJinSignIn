@@ -5,5 +5,5 @@ module.exports = {
   uuid: "7017780212298139171",
   _signature:
     "_02B4Z6wo00901BTV1kgAAIDBbBs9TdIboJgU0dLAAGc1kuH6RI7WHN1-MLClnsfY-pnH-fMW8se23.Lb.gGmkaV367NmSPSyp0lGJk7sWT.fORXcNMwdwHlpBbjAxddJOe9q-naz016Z82bKb4",
-  PUSH_PLUS_TOKEN: "d797444d656b4247b0b410dd29c44f1c",
+  PUSH_PLUS_TOKEN: "",
 };
